@@ -1,10 +1,22 @@
 {
   "schemaVersion": 1,
-  "product": "KB_DOOM_Toys",
   "licenses": [
     {
-      "id": "server-001",
-      "ip": "185.10.20.30",
+      "licenseId": "kbdoom-001",
+      "modName": "KB_DOOM_Toys",
+      "serverName": "Survival Chernarus",
+      "buyerSteamModUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=1234567890",
+      "serverIp": "185.10.20.30",
+      "serverPort": 2302,
+      "enabled": true
+    },
+    {
+      "licenseId": "kbdoom-002",
+      "modName": "KB_DOOM_Toys",
+      "serverName": "Livonia Hardcore",
+      "buyerSteamModUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=9876543210",
+      "serverIp": "91.40.50.60",
+      "serverPort": 2402,
       "enabled": true
     }
   ]
