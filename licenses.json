@@ -1,1 +1,11 @@
-
+{
+  "schemaVersion": 1,
+  "product": "KB_DOOM_Toys",
+  "licenses": [
+    {
+      "id": "server-001",
+      "ip": "185.10.20.30",
+      "enabled": true
+    }
+  ]
+}
